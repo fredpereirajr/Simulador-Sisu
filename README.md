@@ -1,4 +1,4 @@
-# Simulador-Sisu 
+# Simulador Sisu 
 O Simulador Sisu é uma aplicação feita para simular as chances de aprovação no Sistema de Seleção Unificada (SISU). Como forma de validação, o sistema utiliza os dados mais recentes (Sisu 2022) disponibilizados pelo próprio MEC. 
 
 ## Funcionamento
