@@ -97,7 +97,7 @@ function sendInfo () {
             <th>CAMPUS</th>
             <th>TURNO</th>
             <th>BÔNUS</th>
-            <th>MODALIDADE</th>
+            <th class="cabecalho-modalidade" >MODALIDADE</th>
         </tr>`;
 
         var body = {
@@ -233,7 +233,7 @@ function getModalalidades() {
             var arrayModalidades = JSON.parse(this.responseText).array;
             
             for (let index = 0; index < arrayModalidades.length; index++) {
-               
+                
                 var modal = arrayModalidades[index];
                 var elementLi = document.createElement('li');
                 var elementLink = document.createElement('a');

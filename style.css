@@ -3,9 +3,13 @@
     padding: 0;
 }
 
+html {
+    height: 100%;
+}
+
 body {
-    height: 2000px;
-    background-image: linear-gradient(to bottom, #02afba, #01a6b0, #019ca7, #00939d, #008a94, #00828b, #007a83, #00727a, #006a70, #006167, #00595d, #005154);
+    max-height: 100%;
+    background-color: #009199;
 }
 
 /*********************************CONFIGURANDO SECTION INTRO************************/
@@ -124,16 +128,17 @@ li {
     top: 210px;
     margin-left: auto;
     margin-right: auto;
-    max-width: 1700px;
-   
+    width: 1700px;
+    padding-bottom: 50px;
 }
 
 
 #tabela-info {
     display: block;  
     border-radius: 10px;
-    background-color: #cbfcfd;
+    background-color: #a6f0f1;
     padding: 10px;
+   
 }
 
 /*Linha*/
@@ -151,7 +156,7 @@ th {
 }
 
 .cabecalho-modalidade {
-    min-width: 658px;
+    width: 100%;
 }
 
 /*Dados colunas */
