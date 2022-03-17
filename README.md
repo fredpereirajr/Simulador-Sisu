@@ -10,4 +10,4 @@ O sistema de filtragem adotado é bem amplo, tornando-se possível uma filtragem
 
 ## Implementação
 
-Para implementação desta aplicação, foi utilizado na parte do front-end tecnologias como HTML, CSS, Bootstrap e Javascrip. Para o back-end, foi construído um servidor para tratar e recuperar os dados de forma mais otimizada, utilizando para isso Node.js e Express.
+Para implementação desta aplicação, foi utilizado na parte do front-end tecnologias como HTML, CSS, Bootstrap e Javascrip. Já para o back-end, foi construído um servidor para tratar e recuperar os dados de forma mais otimizada, utilizando para isso Node.js e Express.
